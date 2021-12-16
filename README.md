@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SS69232
+- 👋 Hi, I’m Satyam
 - 👀 I’m interested in geo-spatial data 
 - 🌱 I’m currently learning to get the citizenship of geospatial world
 - 💞️ I’m looking to collaborate on projects related to Remote Sensing and GIS . We can together explore this new world :D 
